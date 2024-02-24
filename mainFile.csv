@@ -1,15 +1,15 @@
-org_id,product_id,uom,description,dimensions,enabled,gtin,prices,product_category,product_class,product_launch_date,product_launch_time,product_type,ship_alone,sourcing_classification,,
-Coppel,175883340,2/16/1980,Josefine,Pennington,shizuko.lincoln@ideal.com,5.59E+15,SURILETA,60.24,Composite Stores B.V,Pennsylvania Inc,North Charleston,GTQ,SCR,8.95E+11,,'175883340
-Coppel,483099040,1/28/1987,Margorie,Mcgregor,nadia108@utils.com,6.01E+15,HOUSE,98.44,Vic Stores ,Dt A.G,Overland Park,SSP,JOD,1.33E+12,,'483099040
-Coppel,318681090,1/22/2008,Angelyn,Mcmillan,sierra7575@hotmail.com,4.02E+15,PICAFLOR,56.38,Tuning ,Glow Industries Company,Redding,IDR,TND,9.81E+11,,'318681090
-Coppel,705033010,4/17/2007,Francesco,Mccauley,kecia.bordelon7@yahoo.com,6.01E+15,CASCADA,8.7,Fastest LLC,Feed Company,North Las Vegas,KZT,NAD,1.03E+12,,'705033010
-Coppel,404133180,9/21/1999,Stanford,Seale,karine6366@hotmail.com,4.23E+15,WISE,84.13,Dell Stores Corporation,Calculated Stores Inc,St. Paul,KPW,KZT,8.25E+11,,'404133180
-Coppel,706632010,4/3/1996,Blair,Mccue,janna.dotson85360@vaccine.com,5.15E+15,CAPRIOLL,61.76,Vt ,Sudden Stores ,Savannah,EUR,XOF,1.04E+11,,'706632010
-Coppel,306375010,9/21/1992,Annita,Salisbury,shelaratliff4@gmail.com,5.31E+15,SUNSHINE,4.66,Belkin S.A,Lightning Ltd,Redding,COP,PKR,1.14E+11,,'306375010
-Coppel,314873010,5/18/1975,Chanell,Seaman,olene_rutledge@revenue.com,6.01E+15,FIORI,87.33,Email Energy Inc,Seeing S.A,Johnson City,USD,MDL,1.09E+12,,'314873010
-Coppel,173733330,1/18/1993,Ferdinand,Bernstein,selma331@newfoundland.com,5.15E+15,POPULAR,38.13,Disease Mutual SIA,Zealand LLC,Bonita Springs,JPY,BND,1.70E+12,,'173733330
-Coppel,176881282,1/8/2012,Kimbra,Maguire,louanne43@social.com,5.36E+15,SMOKED,59.14,Liechtenstein Company,Surgeon Holdings SIA,Omaha,ANG,AMD,4.02E+11,,'176881282
-Coppel,320291344,11/4/1970,Garland,Weaver,sulemarawls@terms.com,3.79E+15,BABYBEL,31.15,Association Mutual Pte. Ltd,Slim Software Ltd,Sterling Heights,DZD,XCD,9.50E+11,,'320291344
-Coppel,244344060,3/3/1981,Dannie,Stjohn,mabel.garvin0115@servers.com,3.48E+15,DECECCO,68.19,When Corporation,Schedules Industries S.A,Joliet,SRD,CDF,1.16E+12,,'244344060
-Coppel,113869380,8/24/2004,Mari,Daugherty,keesha.hines55463@ascii.com,5.39E+15,HYDRATE,62.76,Bug Software Company,Jun International Corp,Yakima,PAB,SHP,1.12E+12,,'113869380
-Coppel,474616060,4/24/1997,Albertine,Rice-Domingo,maranda_richmond9516@orange.com,3.73E+15,RICHIN,93.25,Louis B.V,Tickets International Company,Grand Rapids,GBP,XOF,1.63E+12,,'474616060
+sku,name,product_id
+100011420,NA,100011420
+100012360,NA,100012360
+100012400,NA,100012400
+100012420,NA,100012420
+100011380,NA,100011380
+100073010,NA,100073010
+100074010,NA,100074010
+100012380,NA,100012380
+100012440,NA,100012440
+100011360,NA,100011360
+100019010,NA,100019010
+100020010,NA,100020010
+100011400,NA,100011400
+100022380,NA,100022380

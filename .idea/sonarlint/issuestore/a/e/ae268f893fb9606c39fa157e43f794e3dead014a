@@ -1,34 +1,33 @@
 
-ypython:S117""[Rename this local variable "compResult" to match the regular expression ^[_a-z][a-z0-9_]*$.(ååºÅ8‚ïÀœİ1
-vpython:S117"XRename this local variable "compSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(„‘ÿ©8‚ïÀœİ1
-upython:S117"XRename this local variable "dataSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(áİq8‚ïÀœİ1
-xpython:S117"URename this parameter "firstFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚õ¿—ÿÿÿÿÿ8‚ïÀœİ1
-ypython:S117"VRename this parameter "secondFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚õ¿—ÿÿÿÿÿ8‚ïÀœİ1
-|python:S1542"XRename function "compareFromCsvFile" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚õ¿—ÿÿÿÿÿ8‚ïÀœİ1
-Ipython:S1481'"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ8‚ïÀœİ1
-=python:S125
-"Remove this commented out code.(…Ê‚8‚ïÀœİ1
-Bpython:S125"Remove this commented out code.(Øœ’àûÿÿÿÿ8‚ïÀœİ1
-=python:S125"Remove this commented out code.(ÚÂ®8‚ïÀœİ1
-Npython:S6735""/Specify the "validate" parameter of this merge.(ååºÅ8‚ïÀœİ1
-Bpython:S125#"Remove this commented out code.(ÇÏ¸¿ÿÿÿÿÿ8‚ïÀœİ1
-ypython:S117@"[Rename this local variable "compResult" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÅ¦Ú8ë¢Îœİ1
-spython:S117+"URename this parameter "firstFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ•Ÿ8‚ïÀœİ1
-tpython:S117+"VRename this parameter "secondFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ•Ÿ8‚ïÀœİ1
-}python:S1170"ZRename this local variable "textData1" to match the regular expression ^[_a-z][a-z0-9_]*$.(éØ¼ûÿÿÿÿ8‚ïÀœİ1
-}python:S1173"ZRename this local variable "textData2" to match the regular expression ^[_a-z][a-z0-9_]*$.(œìï¯ûÿÿÿÿ8‚ïÀœİ1
-wpython:S1542+"XRename function "compareFromTxtFile" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğ•Ÿ8‚ïÀœİ1
-Ipython:S1481E"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ8‚ïÀœİ1
-^python:S56446":Fix this code; "df1" does not have a "__setitem__" method.(éƒşÿÿÿÿ8ñÔÑœİ1
-^python:S56446":Fix this code; "df1" does not have a "__getitem__" method.(éƒşÿÿÿÿ8ñÔÑœİ1
-^python:S56447":Fix this code; "df1" does not have a "__getitem__" method.( ‚èÀúÿÿÿÿ8ê€Òœİ1
-=python:S1259"Remove this commented out code.(õôË›8†ÕÏœİ1
-Bpython:S125?"Remove this commented out code.(¼œĞáûÿÿÿÿ8—ÌÍœİ1
-^python:S5655@"?Change this argument; Function "merge" expects a different type(ªÅ¦Ú8ëÖÎœİ1
-Npython:S6735@"/Specify the "validate" parameter of this merge.(ªÅ¦Ú8í¢Îœİ1
-wpython:S117M"YRename this local variable "mainPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(½Ø8‚ïÀœİ1
-python:S117N"^Rename this local variable "secondaryPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¦îƒûÿÿÿÿ8‚ïÀœİ1
-€python:S117O"]Rename this local variable "textMainPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(À¶ééùÿÿÿÿ8‚ïÀœİ1
-python:S117P"bRename this local variable "textSecondaryPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶Ø€U8‚ïÀœİ1
-Upython:S1481N"1Remove the unused local variable "secondaryPath".(ù¦îƒûÿÿÿÿ8‚ïÀœİ1
-Kpython:S1481M",Remove the unused local variable "mainPath".(½Ø8‚ïÀœİ1
+=python:S125"Remove this commented out code.(…Ê‚8ÏÙºİ1
+ypython:S117,"[Rename this local variable "compResult" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤©¾ğ8ÏÙºİ1
+{python:S117#"XRename this local variable "compSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªùàüÿÿÿÿ8ÏÙºİ1
+{python:S117"XRename this local variable "dataSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(Åó¼´ùÿÿÿÿ8ÏÙºİ1
+|python:S117 "YRename this local variable "ds1Count" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôëşàüÿÿÿÿ8œÏ»İ1
+wpython:S117'"YRename this local variable "ds2Count" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸¥õá8³áÏ»İ1
+xpython:S117"URename this parameter "firstFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚õ¿—ÿÿÿÿÿ8ÏÙºİ1
+ypython:S117"VRename this parameter "secondFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚õ¿—ÿÿÿÿÿ8ÏÙºİ1
+|python:S1542"XRename function "compareFromCsvFile" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚õ¿—ÿÿÿÿÿ8ÏÙºİ1
+Ppython:S1481 ",Remove the unused local variable "ds1Count".(Ôëşàüÿÿÿÿ8œÏ»İ1
+Kpython:S1481'",Remove the unused local variable "ds2Count".(¸¥õá8³áÏ»İ1
+Ipython:S14812"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ8ÏÙºİ1
+Bpython:S125"Remove this commented out code.(‘õÙµùÿÿÿÿ8ÏÙºİ1
+<python:S125$"Remove this commented out code.(£Æ¹8ÏÙºİ1
+Xpython:S6735,"9Specify the "on" and "validate" parameters of this merge.(¤©¾ğ8ÏÙºİ1
+Bpython:S125-"Remove this commented out code.(ÇÏ¸¿ÿÿÿÿÿ8ÏÙºİ1
+spython:S1176"URename this parameter "firstFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ•Ÿ8ÏÙºİ1
+tpython:S1176"VRename this parameter "secondFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ•Ÿ8ÏÙºİ1
+}python:S117;"ZRename this local variable "textData1" to match the regular expression ^[_a-z][a-z0-9_]*$.(éØ¼ûÿÿÿÿ8ÏÙºİ1
+}python:S117>"ZRename this local variable "textData2" to match the regular expression ^[_a-z][a-z0-9_]*$.(œìï¯ûÿÿÿÿ8ÏÙºİ1
+wpython:S15426"XRename function "compareFromTxtFile" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğ•Ÿ8ÏÙºİ1
+Ipython:S1481Y"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ8ÏÙºİ1
+^python:S5644B":Fix this code; "df1" does not have a "__setitem__" method.(Üï¯üÿÿÿÿ8œÏ»İ1
+^python:S5644B":Fix this code; "df1" does not have a "__getitem__" method.(Üï¯üÿÿÿÿ8œÏ»İ1
+^python:S5644C":Fix this code; "df1" does not have a "__setitem__" method.(æ¨ÎÔøÿÿÿÿ8œÏ»İ1
+^python:S5644C":Fix this code; "df1" does not have a "__getitem__" method.(æ¨ÎÔøÿÿÿÿ8œÏ»İ1
+Ypython:S5644I":Fix this code; "df2" does not have a "__setitem__" method.(ÉÃ—8œÏ»İ1
+Ypython:S5644I":Fix this code; "df2" does not have a "__getitem__" method.(ÉÃ—8œÏ»İ1
+Ypython:S5644J":Fix this code; "df2" does not have a "__setitem__" method.(³šË–8œÏ»İ1
+Ypython:S5644J":Fix this code; "df2" does not have a "__getitem__" method.(³šË–8œÏ»İ1
+Bpython:S125N"Remove this commented out code.(›ï­ñüÿÿÿÿ8ÏÙºİ1
+Bpython:S125R"Remove this commented out code.(¼œĞáûÿÿÿÿ8ÏÙºİ1
